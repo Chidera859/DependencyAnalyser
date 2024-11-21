@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "Chideraugonwafor2000@yahoo.com",
+      "contact_email": "Chideraugonwafor2000@yahoo.com",
+      "first_name": "Chidera",
+      "last_name": "Ugonwafor",
+      "photo": "data:image/jpeg;base64,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",
+      "linkedin_profile_url": "https://www.linkedin.com/in/chidera-ugonwafor-a46486284",
+      "has_signed_agreement": false,
+      "race_ethnicity": [],
+      "gender": "Female",
+      "is_technical": true,
+      "locale": "",
+      "last_login": "2024-09-17T10:25:20.901652Z",
+      "copilot_conversations": []
+    }
+  ],
+  "application": {
+    "created_at": "2024-09-17T10:43:57.256436Z",
+    "updated_at": "2024-09-17T10:43:57.256450Z",
+    "name": "Metric4U",
+    "website": null,
+    "is_incorporated": false,
+    "description": "With AI the process of automating data, visualizing and reporting becomes faster and more efficient for Metric4U and this will help in satisfying client need.  AI-powered tools can analyze vast datasets, identify patterns, and predict trends, providing deeper insights for informed decision-making. Natural Language Processing (NLP) chatbots can offer 24/7 customer support, answering queries and guiding users through the analysis process",
+    "concept_stage": "prototype",
+    "country": "ng",
+    "address_locality": "Ikeja",
+    "address_region": "Lagos",
+    "postal_code": "412000",
+    "street_address": "No 32 oremeta street ojodu berger,",
+    "links": []
+  },
+  "account": null
+}
